@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @DavidLi874451
-- 👀 I’m interested in chess
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-DavidLi874451/DavidLi874451 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+As a passionate and highly skilled developer, I specialize in crafting seamless, high-performance websites utilizing HTML and Python. 
+With a deep understanding of web architecture and backend logic, I’ve built and optimized dynamic applications that are both elegant and efficient. 
+I am now expanding my programming arsenal by diving into Java to ultimately push the boundaries of what I can create across platforms and languages.
+For any questions, please email me at davidli08262008@gmail.com!
